@@ -10,4 +10,10 @@ public abstract class Medical_Staff {
         Department = department;
         WorkingHours = workingHours;
     }
+    public void Details(){
+        System.out.println("Employee ID: "+EmployeeID);
+        System.out.println("Department: "+Department);
+        System.out.println("Working hours: "+WorkingHours);
+    }
+    public abstract void Duty();
 }
