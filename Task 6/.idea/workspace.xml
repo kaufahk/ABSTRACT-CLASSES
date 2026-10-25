@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e038e2e-3d2a-4c59-8216-6bc5ddba1cda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hospital/Staff_Members/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hospital/Staff_Members/Nurse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
